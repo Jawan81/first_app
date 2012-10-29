@@ -7,7 +7,7 @@ group :development do
 end
 
 group :production do
-  gem 'pg', '0.12.2'
+  gem 'pg', '0.14.1'
 end
 
 # Gems used only for assets and not required
